@@ -4,9 +4,9 @@ has_more_link: true
 more_link_text: Keep reading
 layout: home
 ---
-![portrait]({{site.baseurl}}/images/me_small.jpg)
+![portrait]({{site.baseurl}}/images/chandni.jpg)
 ### Education and Experience
-Hello, and thank you for visiting my website! I previously graduated with my **M.S. Computer Science** degree in December 2022, and I am currently working as a Software Engineer with the **Microsoft Azure Machine Learning Training team**.
+Hi! I'm Chandni.
 
 ### Technical Interests
 

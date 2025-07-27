@@ -12,7 +12,7 @@ header:
   tagline: SWE @ Microsoft | MS CSE @ UW
   logo_img: images/logo.svg
   logo_img_alt: Rehaan Logo
-  background_img: images/halfdome_crop.jpg
+  background_img: images/GRNL3072.JPG
   has_nav: true
   nav_links:
     - label: Home
@@ -26,11 +26,6 @@ header:
       style: link
   has_social: true
   social_links:
-    - label: GitHub
-      url: 'https://github.com/bhimar'
-      style: icon
-      icon_class: github
-      new_window: true
     - label: LinkedIn
       url: 'https://www.linkedin.com/in/rehaanbhimani'
       style: icon

@@ -9,9 +9,10 @@ palette: yellow
 favicon: images/favicon.jpg
 header:
   title: Chandni A. Rajesh
-  tagline: Environmental Scientist @ Tower Engineering Professionals
-  logo_img: images/logo.svg
-  logo_img_alt: Chandni Logo
+  tagline: 'Chandni A. Rajesh: 
+            Environmental Scientist @ Tower Engineering Professionals'
+  # logo_img: images/logo.svg
+  # logo_img_alt: Chandni Logo
   background_img: images/GRNL3072.JPG
   has_nav: true
   nav_links:

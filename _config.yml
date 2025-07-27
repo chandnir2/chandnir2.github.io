@@ -1,5 +1,5 @@
-title: Rehaan M. Bhimani
-url: bhimar.github.io
+title: Chandni A. Rajesh
+url: chandnir2.github.io
 baseurl: /portfolio-site
 permalink: '/:title/'
 collections:
@@ -8,10 +8,10 @@ collections:
 palette: yellow
 favicon: images/favicon.jpg
 header:
-  title: Rehaan M. Bhimani
-  tagline: SWE @ Microsoft | MS CSE @ UW
+  title: Chandni A. Rajesh
+  tagline: Environmental Scientist @ Tower Engineering Professionals
   logo_img: images/logo.svg
-  logo_img_alt: Rehaan Logo
+  logo_img_alt: Chandni Logo
   background_img: images/GRNL3072.JPG
   has_nav: true
   nav_links:
@@ -27,12 +27,12 @@ header:
   has_social: true
   social_links:
     - label: LinkedIn
-      url: 'https://www.linkedin.com/in/rehaanbhimani'
+      url: 'www.linkedin.com/in/chandni-rajesh-37ab81228'
       style: icon
       icon_class: linkedin
       new_window: true
     - label: Mail
-      url: 'mailto:rehaan.bhimani@gmail.com'
+      url: 'mailto:chandnir2@gmail.com'
       style: icon
       icon_class: email
       new_window: true

@@ -14,5 +14,3 @@ I am a curious software engineer particularly interested in **Software Engineeri
 
 ### Fun Facts
 When I am not studying or working, I enjoy being active and outdoors. I especially enjoy surfing, rock climbing, backpacking, and fly fishing!
-
-# Project Highlights

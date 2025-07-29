@@ -10,14 +10,12 @@ August 2018 – June 2022
 September 2021 – June 2022  
 
 ### Skills
-**Programming**  
-Python (PyTorch, Huggingface Transformers, Pytest) • C/C++ • Java  
+**Programs**  
+R Studio • Excel • ArcGIS
 **Tools**  
-Linux/UNIX • Git • SQL  
+Microsoft Suite • Google Suite   
 **Domain Knowledge**  
-Deep Learning • Computer Vision • Machine Learning • Software Engineering  
-**Certifications**  
-[Github Actions (CI/CD)](https://www.credly.com/badges/78998809-fea4-487c-8779-6f7d88dd422d/print)  
+Wildlife Biology • Environmental Consulting • Environmental Regulation • Quantitative Sciences    
 
 ### Work 
 **TOWER ENGINEERING PROFESSIONALS (TEP)**  
@@ -32,17 +30,16 @@ Deep Learning • Computer Vision • Machine Learning • Software Engineering
 - Perform breeding bird surveys in accordance with IMBCR and Colorado State standards
 - Design and implement a willife camera study within Boulder County Open Space, with the intention of better understanding large game and predator spatial dynamics, species presence and absence, and reproductive success rates
 
-**MICROSOFT (AZURE WAN EMULATION)**  
-*Software Engineer Intern/ June 2021 – Sept 2021*
-- Design and implement a service for automated and continuous integration testing in an emulated network using Python programming, network emulation API, and Kusto Query Language
-- My service significantly decreases overhead for integration testing, and it increases the reliability of the network emulation, thus increasing reliability of the Azure production network.
+**WILD BEAR NATURE CENTER**  
+*Community Engagement Manager/ June 2022 – April 2023*
+- Planing and executing community and fundraising events within the greater Boulder, CO area
+- Public outreach and environmental education
 
-**PAUL G. ALLEN SCHOOL FOR COMPUTER SCIENCE & ENGINEERING**  
-*Teaching Assistant/ June 2019 – December 2022*
-- Prepare and deliver weekly class sections and office hours to teach students topics including machine learning, computer vision, Python and C/C++ programming
+**UNIVERSITY OF WASHINGTON, SEATTLE (DEPARTMENT OF BIOLOGY)**  
+*Research assistant/ September 2021 – June 2022*
+- Literature review, parameterization of a tri-trophic model, and sensitivity analysis utilizing R Studio
+- My research culminated in a completed honors thesis, determining the impacts of lichen availability and predation pressure on woodland caribou.
+- Scientific poster presentation at UW's Undergraduate Research Symposium
 
 ### Awards
-CSE Award for Excellence Scholarship - Nov 2019  
-Undergraduate Research Conference Travel Award - Feb 2019  
-Mary Gates Research Scholarship Award - Dec 2018  
-Mary Gates Research Scholarship Award - Mar 2018  
+Departmental Honors - UW School of Environmental and Forest Sciences 

@@ -11,7 +11,7 @@ September 2021 – June 2022
 
 ### Skills
 **Programs**  
-R Studio • Excel • ArcGIS
+R Studio • Excel • ArcGIS                             
 **Tools**  
 Microsoft Suite • Google Suite   
 **Domain Knowledge**  
@@ -42,4 +42,4 @@ Wildlife Biology • Environmental Consulting • Environmental Regulation • Q
 - Scientific poster presentation at UW's Undergraduate Research Symposium
 
 ### Awards
-Departmental Honors - UW School of Environmental and Forest Sciences 
+Departmental Honors - School of Environmental and Forest Sciences, University of Washington

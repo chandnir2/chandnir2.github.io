@@ -27,7 +27,7 @@ header:
   has_social: true
   social_links:
     - label: LinkedIn
-      url: 'www.linkedin.com/in/chandni-rajesh-37ab81228'
+      url: 'https://www.linkedin.com/in/chandni-rajesh-37ab81228/'
       style: icon
       icon_class: linkedin
       new_window: true

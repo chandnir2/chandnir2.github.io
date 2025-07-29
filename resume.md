@@ -4,10 +4,10 @@ layout: page
 ---
 ### Education
 **UNIVERSITY OF WASHINGTON – SEATTLE**  
-*M.S. Computer Science* - GPA: 3.87/4.0
-September 2021 – December 2022  
-*B.S. Computer Science and Applied & Computational Mathematical Sciences* – GPA: 3.82/4.0  
-September 2017 – June 2021  
+*B.S. Environmental Science Terrestrial Resource Management* - GPA: 3.62/4.0
+August 2018 – June 2022 
+*Minor in Quanitative Sciences*   
+September 2021 – June 2022  
 
 ### Skills
 **Programming**  
@@ -20,14 +20,17 @@ Deep Learning • Computer Vision • Machine Learning • Software Engineering
 [Github Actions (CI/CD)](https://www.credly.com/badges/78998809-fea4-487c-8779-6f7d88dd422d/print)  
 
 ### Work 
-**MICROSOFT (AZURE MACHINE LEARNING)**  
-*Software Engineer/ March 2023 - Present* 
+**TOWER ENGINEERING PROFESSIONALS (TEP)**  
+*Environmental Scientist/ November 2024 - Present*
+- Tehcnical regulatory report writing
+- Phase I ESA, NEPA, and NPA consultation for telecommunications firms including T-Mobile, Verizon, and At&t
+- Travel and field work across the U.S. 
 
-**MICROSOFT (AZURE AUTOML)**  
-*Software Engineer Intern/ June 2022 – Sept 2022*
-- Implement model loading, data loading, data augmentation, training, and evaluation for multi-label spatio-temporal action detection video understanding task
-- Optimize video input with streaming and customize annotation parsing to match customer needs
-- Execute and record experiments on several datasets to find initial set of hyperparameters and performance benchmarks
+**BOULDER COUNTY PARKS AND OPEN SPACE**  
+*Wildlife Technician/ April 2023 – October 2024*
+- Collect and analyze raptor data
+- Perform breeding bird surveys in accordance with IMBCR and Colorado State standards
+- Design and implement a willife camera study within Boulder County Open Space, with the intention of better understanding large game and predator spatial dynamics, species presence and absence, and reproductive success rates
 
 **MICROSOFT (AZURE WAN EMULATION)**  
 *Software Engineer Intern/ June 2021 – Sept 2021*

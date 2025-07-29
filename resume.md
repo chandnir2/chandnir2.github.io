@@ -4,7 +4,7 @@ layout: page
 ---
 ### Education
 **UNIVERSITY OF WASHINGTON – SEATTLE**  
-*B.S. Environmental Science Terrestrial Resource Management* - GPA: 3.62/4.0
+*B.S. Environmental Science Resource Management* - GPA: 3.62/4.0
 August 2018 – June 2022 
 *Minor in Quanitative Sciences*   
 September 2021 – June 2022  

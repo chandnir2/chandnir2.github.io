@@ -10,7 +10,7 @@ Hi! I'm Chandni! I graduated with a B.S. in Enivronmental Science Terrestrial Re
 
 ### Technical Interests
 
-I am a curious software engineer particularly interested in **Software Engineering, Machine Learning and Artificial Intelligence, Systems Engineering, and Devops/MLOps**. I pride myself on writing high quality code and debugging complex problems. I have significant experience teaching systems computer science and machine learning/deep learning courses. I'm always on the look out for opportunities to expand my expertise and contribute to meaningful engineering and teaching work, so please reach out!
+I am an environmental scientist interested in **the intersection of wildlife research and environmental policy, population biology, and quantitative sciences**. I have conducted two seasons of field work for Boulder County Parks and Open Space, where I independently collected breeding bird and raptor data. Additional fish sampling and elk surveys were completed in collaboration with Colorado Parks and Widlife. I am excited about quantitative sciences, and strive to build upon my existing R Studio and Excel profficiency. I thoroughly enjoy discussing wildlife research and sharing stories about field experiences, and welcome anyone interested in reaching out!
 
 ### Fun Facts
 When I am not working, I enjoy hiking, rock climbing, camping, and cooking! I learned ballet for 13 years, and classical Indian dance for over 20 years. I especially enjoy performing Bharathanatyam for audiences across the U.S. and India.

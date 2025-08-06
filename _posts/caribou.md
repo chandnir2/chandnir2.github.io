@@ -9,8 +9,8 @@ layout: post
 ---
 
 Below is the abstract accepted to the Ecology and Evolution journal, which can be found
- [here](file:///C:/Users/chand/Downloads/Caribou_and_Reindeer_Population_Cycles_Are_Driven_.pdf). 
- You can view the poster I presented [here](file:///C:/Users/chand/Downloads/URS_poster_ChandniRajesh%20(1)%20(1).pdf).
+ [here](https://www.google.com). 
+ You can view the poster I presented [here](https://www.google.com).
 
 ## Authors
 T.J. Clark-Wolf<sup>1</sup>, Jack St. John<sup>1</sup>, Chandni A. Rajesh<sup>3</sup>, Mark Hebblewhite<sup>2</sup>
@@ -104,4 +104,4 @@ the Center for Ecosystem Sentinels, eScience Insitute at the University of Washi
 Arctic (NNA).
 
 ## Poster Presented at the University of Washinton Undergraduate Research Symposium
-![ORS Poster](file:///C:/Users/chand/Downloads/URS_poster_ChandniRajesh%20(1)%20(1).pdf)
+![ORS Poster](https://www.google.com)
